@@ -1,2 +1,2 @@
-# .github
-Readme for Deuel
+# Deuel
+Deuel is currently in development.
